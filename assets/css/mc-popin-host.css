@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 17 mars 2015, 20:44:52
+    Author     : MeowCodes
+*/
+.mcss-visually-hidden {
+  position: absolute !important;
+  clip: rect(1px 1px 1px 1px);
+  /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0 !important;
+  border: 0 !important;
+  height: 1px !important;
+  width: 1px !important;
+  overflow: hidden;
+}
+.mcss-form-popin #TB_window #TB_ajaxWindowTitle {
+  background: black !important;
+  font-size: 1.2em;
+  color: #FFF;
+}

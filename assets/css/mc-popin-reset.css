@@ -1,0 +1,32 @@
+#wphead {
+  display: none;
+}
+#wpbody {
+  margin-left: 0px;
+}
+#adminmenuback {
+  display: none;
+}
+#adminmenu,
+adminmenuwrap {
+  display: none;
+}
+#wpcontent,
+.auto-fold #wpcontent {
+  margin-left: 0px;
+  padding: 0;
+}
+#wpadminbar {
+  display: none;
+}
+html.wp-toolbar {
+  padding: 0px;
+}
+#footer,
+#wpfooter,
+.auto-fold #wpfooter {
+  display: none;
+}
+#wpfooter {
+  clear: both;
+}

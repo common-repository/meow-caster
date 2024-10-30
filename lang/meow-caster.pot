@@ -1,0 +1,1255 @@
+# Copyright (C) 2018 Meow Caster
+# This file is distributed under the same license as the Meow Caster package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Meow Caster 0.9.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/meow-caster\n"
+"POT-Creation-Date: 2018-08-20 09:34:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/Admin/Admin-Pages.php:110 classes/Admin/Admin-Pages.php:111
+#: classes/Contents/MeowVideo.php:195
+msgid "All Videos"
+msgstr ""
+
+#: classes/Admin/Admin-Pages.php:119 classes/Admin/Admin-Pages.php:120
+#: classes/Contents/MeowVideoGallery.php:97
+msgid "All Galleries"
+msgstr ""
+
+#: classes/Admin/Admin-Pages.php:128 classes/Admin/Admin-Pages.php:129
+#: classes/Contents/MeowVideo.php:263
+msgid "Meow Tags"
+msgstr ""
+
+#: classes/Admin/Admin-Pages.php:137 classes/Admin/Admin-Pages.php:138
+#: classes/Contents/MeowVideo.php:197
+msgid "Add Video"
+msgstr ""
+
+#: classes/Admin/Admin-Pages.php:146 classes/Admin/Admin-Pages.php:147
+#: classes/Contents/MeowVideoGallery.php:99
+msgid "Add Gallery"
+msgstr ""
+
+#: classes/Admin/Admin-Pages.php:154 classes/Admin/Admin-Pages.php:155
+msgid "Add Videos into Galleries"
+msgstr ""
+
+#: classes/Admin/Admin-Pages.php:162 classes/Admin/Admin-Pages.php:163
+#: views/admin/import-youtube.php:14
+msgid "Import from YouTube"
+msgstr ""
+
+#: classes/Admin/Admin-Pages.php:183 classes/Admin/Admin-Pages.php:184
+#: views/admin/form-settings.php:17
+msgid "Settings"
+msgstr ""
+
+#: classes/Admin/Admin-Processor.php:141
+msgid "Youtube token have been revoked."
+msgstr ""
+
+#: classes/Admin/Admin-Processor.php:190
+msgid "Google Credentials have been setup."
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:117
+msgid "Thumbnail of "
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:188
+msgctxt "Post Type General Name"
+msgid "Meow Videos"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:189
+msgctxt "Post Type Singular Name"
+msgid "Meow Video"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:190 classes/Contents/MeowVideo.php:191
+#: classes/Contents/MeowVideo.php:227
+msgid "Meow Video"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:192 classes/Contents/MeowVideoGallery.php:94
+msgid "Item Archives"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:193 classes/Contents/MeowVideoGallery.php:95
+msgid "Item Attributes"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:194 classes/Contents/MeowVideoGallery.php:96
+msgid "Parent Item:"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:196
+msgid "Add New Video"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:198
+msgid "New Video"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:199
+msgid "Edit Video"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:200
+msgid "Update Video"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:201
+msgid "View Video"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:202
+msgid "View Videos"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:203
+msgid "Search Item"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:204 classes/Contents/MeowVideoGallery.php:106
+msgid "Not found"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:205 classes/Contents/MeowVideoGallery.php:107
+msgid "Not found in Trash"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:206
+msgid "Featured Image"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:207
+msgid "Set featured image"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:208
+msgid "Remove featured image"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:209
+msgid "Use as featured image"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:210
+msgid "Insert into item"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:211
+msgid "Uploaded to this item"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:212
+msgid "Items list"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:213
+msgid "Items list navigation"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:214
+msgid "Filter items list"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:228
+msgid "Video extract or add by meow-codes plugins"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:261
+msgctxt "Taxonomy General Name"
+msgid "Meow tags"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:262
+msgctxt "Taxonomy Singular Name"
+msgid "Meow tag"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:264
+msgid "All meow tags"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:265
+msgid "New Tag"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:266
+msgid "Add tag"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:267
+msgid "Edit tag"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:268
+msgid "Update tag"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:269
+msgid "View tag"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:270
+msgid "Separate items with commas"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:271
+msgid "Add or remove tag"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:272
+msgid "Choose from the most used"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:273
+msgid "Popular tags"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:274
+msgid "Search meow tags"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:275
+msgid "Not Found"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:276
+msgid "No video tag"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:277
+msgid "Video tags list"
+msgstr ""
+
+#: classes/Contents/MeowVideo.php:278
+msgid "Video tags list navigation"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:90
+msgctxt "Post Type General Name"
+msgid "Meow Video galleries"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:91
+msgctxt "Post Type Singular Name"
+msgid "Meow Video Gallery"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:92
+#: classes/Contents/MeowVideoGallery.php:93
+#: classes/Contents/MeowVideoGallery.php:129
+msgid "Meow Video Gallery"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:98
+msgid "Add New Gallery"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:100
+msgid "New Gallery"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:101
+msgid "Edit Gallery"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:102
+msgid "Update Gallery"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:103
+msgid "View Gallery"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:104
+msgid "View Galleries"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:105
+msgid "Search Video Gallery"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:108
+msgid "Preview image"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:109
+msgid "Set preview image"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:110
+msgid "Remove preview image"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:111
+msgid "Use as preview image"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:112
+msgid "Insert into gallery"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:113
+msgid "Uploaded to this gallery"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:114
+msgid "Galleries list"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:115
+msgid "Galleries list navigation"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:116
+msgid "Filter Galleries list"
+msgstr ""
+
+#: classes/Contents/MeowVideoGallery.php:130
+msgid "Gallery create with Meow plugins"
+msgstr ""
+
+#: classes/Services/MeowAjax.php:188 classes/Services/MeowAjax.php:305
+#: classes/Services/MeowAjax.php:428 classes/Services/MeowAjax.php:442
+msgid "Wrong parameter"
+msgstr ""
+
+#: classes/Services/MeowAjax.php:243
+msgid "No video not already imported"
+msgstr ""
+
+#: classes/Services/MeowAjax.php:264 classes/Services/MeowAjax.php:358
+msgid "No video found on YouTube"
+msgstr ""
+
+#: classes/Services/MeowAjax.php:279 classes/Services/MeowRoar.php:170
+msgid "Too soon, this feature isn't full implemented."
+msgstr ""
+
+#: classes/Services/MeowAjax.php:457
+msgid "Sync Fail"
+msgstr ""
+
+#: classes/Services/MeowMetabox.php:64
+msgid "Youtube Player Config"
+msgstr ""
+
+#: classes/Services/MeowMetabox.php:72
+msgid "Meow Sync"
+msgstr ""
+
+#: classes/Services/MeowMetabox.php:80
+msgid "Meow video information"
+msgstr ""
+
+#: classes/Services/MeowMetabox.php:87
+msgid "Meow Video selector"
+msgstr ""
+
+#: classes/Services/MeowMetabox.php:209
+msgid "Easy YouTube or Vimeo embedding"
+msgstr ""
+
+#: classes/Services/MeowMetabox.php:212
+msgid "Add YouTube"
+msgstr ""
+
+#: classes/Services/MeowRoar.php:92
+msgid ""
+"Error code %s not found. Don't worry, just contact meow codes team for fix "
+"it."
+msgstr ""
+
+#: classes/Services/MeowRoar.php:127
+msgid ""
+"This form aren't ready. It seems to have some field not correctly fill. "
+"Please check again."
+msgstr ""
+
+#: classes/Services/MeowRoar.php:132
+msgid ""
+"Invalid form's nonce <div><p>in method : <b>%s()</b></p><p> in file : <b>%s</"
+"b></p></div>"
+msgstr ""
+
+#: classes/Services/MeowRoar.php:137
+msgid "Invalid Google Token. Please retry."
+msgstr ""
+
+#: classes/Services/MeowRoar.php:142
+msgid "Invalid file type. Please retry with JSON file."
+msgstr ""
+
+#: classes/Services/MeowRoar.php:147
+msgid ""
+"Invalid credential type. Please retry with an installed credential by using "
+"\"Other\" options."
+msgstr ""
+
+#: classes/Services/MeowRoar.php:155
+msgid "Google Token isn't revoke. Please retry."
+msgstr ""
+
+#: classes/Services/MeowRoar.php:164 tests/MeowRoarTest.php:75
+msgid "Undefined error have been triggerred"
+msgstr ""
+
+#: classes/Services/MeowRoar.php:176
+msgid "Test : Undefined error have been triggerred"
+msgstr ""
+
+#: classes/Services/MeowRoar.php:181
+msgid "Test : Fail error have been triggerred"
+msgstr ""
+
+#: classes/Services/MeowRoar.php:186
+msgid ""
+"Test : Critical error have been triggerred <div><p>in method : <b>%s()</b></"
+"p><p> in file : <b>%s</b></p></div>"
+msgstr ""
+
+#: classes/Services/MeowRoar.php:203
+msgid "Undefined notification have been triggerred"
+msgstr ""
+
+#: classes/Widget/YoutubeEmbed.php:24
+msgid "Display player, playlist or gallery from YouTube"
+msgstr ""
+
+#: classes/Widget/YoutubeEmbed.php:26
+msgid "Youtube Embed with MeowCaster"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:3
+msgid "Authentification"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:4
+msgid ""
+"In order to use each feature of the plugin, you need to let this plugin "
+"access to your Youtube Account."
+msgstr ""
+
+#: views/admin/form-settings-auth.php:5
+msgid ""
+"All data will be use in the plugin and won't be share with a third party."
+msgstr ""
+
+#: views/admin/form-settings-auth.php:13 views/admin/form-settings-auth.php:63
+msgid "Step 1&nbsp;:&nbsp; Upload the Google credentials file"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:18
+msgid "How to get Google credentials file (in 2 minutes)"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:22
+msgid "Connect to "
+msgstr ""
+
+#: views/admin/form-settings-auth.php:26
+msgid "Create a project"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:27
+msgid ""
+"Activate libraries YouTube Data API , YouTube Reporting API and YouTube "
+"Analytics API"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:28
+msgid "Create a OAuth consent screen"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:30
+msgid "Fill the project display name"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:31
+msgid "Save"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:34
+msgid "Create credentials  "
+msgstr ""
+
+#: views/admin/form-settings-auth.php:36
+msgid "Create credential \"OAuth2.0 Client ID\""
+msgstr ""
+
+#: views/admin/form-settings-auth.php:37
+msgid "Choose \"Other\""
+msgstr ""
+
+#: views/admin/form-settings-auth.php:40
+msgid "Download the credential file and upload it here."
+msgstr ""
+
+#: views/admin/form-settings-auth.php:43
+msgid "Need more help? Here a video to show you how to do it."
+msgstr ""
+
+#: views/admin/form-settings-auth.php:56
+msgid "Upload credentials"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:59 views/admin/form-settings-auth.php:68
+msgid "Step 2&nbsp;:&nbsp; Enter your Google token for using YouTube"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:64
+msgid "&nbsp;:&nbsp; Done!"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:70
+msgid "Connect to Google in order to get your token"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:86
+msgid "Activate Youtube token"
+msgstr ""
+
+#: views/admin/form-settings-auth.php:100
+msgid "Revoke Youtube token"
+msgstr ""
+
+#: views/admin/form-settings-global.php:20 views/admin/form-settings.php:26
+msgid "Global settings"
+msgstr ""
+
+#: views/admin/form-settings-global.php:21
+msgid "Core settings for the plugin"
+msgstr ""
+
+#: views/admin/form-settings-global.php:25
+#: views/admin/form-settings-global.php:32
+msgid "Capabilities"
+msgstr ""
+
+#: views/admin/form-settings-global.php:26
+msgid "Who can use the functionnality "
+msgstr ""
+
+#: views/admin/form-settings-vimeo.php:9
+msgid "Vimeo settings"
+msgstr ""
+
+#: views/admin/form-settings-vimeo.php:10
+msgid "Bla bla Vimeo settings"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:49
+#: views/admin/metabox/yt_config_posts.php:25
+msgid "On"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:50
+#: views/admin/metabox/yt_config_posts.php:26
+msgid "Off"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:67
+msgid "YouTube Player live preview"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:68
+msgid ""
+"All settings here is take for default settings of your embed. Take few time "
+"here and save time on the embed elsewhere."
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:74
+msgid "Default parameter for all YouTube player"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:77
+#: views/admin/metabox/yt_config_posts.php:41
+msgid "Modest Branding"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:78
+#: views/admin/metabox/yt_config_posts.php:42
+msgid "Controls"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:79
+#: views/admin/metabox/yt_config_posts.php:43
+msgid "Caption"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:80
+#: views/admin/metabox/yt_config_posts.php:44
+msgid "Annotation"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:81
+#: views/admin/metabox/yt_config_posts.php:45
+msgid "Video information"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:82
+#: views/admin/metabox/yt_config_posts.php:46
+msgid "Related video"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:83
+#: views/admin/metabox/yt_config_posts.php:47
+msgid "Fullscreen button"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:84
+#: views/admin/metabox/yt_config_posts.php:48
+msgid "Autoplay"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:85
+#: views/admin/metabox/yt_config_posts.php:49
+msgid "Loop"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:86
+#: views/admin/metabox/yt_config_posts.php:50
+msgid "UIWebView for iOS"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:89
+msgid "Progress bar color"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:90
+msgid "( Choose white disable modestbranding )"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:96
+msgid "Red"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:102
+msgid "White"
+msgstr ""
+
+#: views/admin/form-settings-youtube-livepreview.php:113
+msgid "Test"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:9
+msgid "Youtube settings"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:10
+msgid ""
+"All settings here is take for default settings for embed, sync and "
+"importation."
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:28
+msgid "Performance"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:35
+msgid "Enable"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:36
+msgid "Disable"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:37
+msgid "Lazy load"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:40
+msgid "Default sync parameters"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:48
+#: views/admin/metabox/video-sync.php:27
+msgid "Full sync"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:54
+#: views/admin/metabox/video-sync.php:32
+msgid "Partial sync"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:63
+#: views/admin/metabox/video-sync.php:40 views/admin/video-to-gallery.php:76
+#: views/admin/widget/yt-embed-tunnel.php:14
+msgid "Title"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:70
+#: views/admin/metabox/video-sync.php:46
+msgid "Description"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:77
+#: views/admin/metabox/video-sync.php:52
+msgid "Tags"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:82
+msgid "Importation default privacy"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:84
+msgid "Changing this setting, select the visibility on content importation."
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:86
+msgid "Default privacy"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:102
+#: views/admin/metabox/video-datalink.php:52
+msgid "Privacy"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:105
+msgid "Youtube RGPD/GDPR consent lifetime"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:107
+msgid ""
+"Choose how much time the cookie have to stay active before ask again the "
+"consent."
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:111
+msgid "5 minutes ( for testing purpose )"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:114
+msgid "12 hours"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:117
+msgid "1 day"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:120
+msgid "3 days"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:123
+msgid "5 days"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:126
+msgid "1 week"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:129
+msgid "2 weeks"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:132
+msgid "1 Month ( 31 days )"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:138
+msgid "User can access to your YouTube video"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:144
+msgid "Cookie only"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:150
+msgid "No cookie only"
+msgstr ""
+
+#: views/admin/form-settings-youtube.php:156
+msgid "Both"
+msgstr ""
+
+#: views/admin/form-settings.php:27
+msgid "Auth"
+msgstr ""
+
+#: views/admin/form-settings.php:28
+msgid "YouTube settings"
+msgstr ""
+
+#: views/admin/form-settings.php:30
+msgid "YouTube Player Preview"
+msgstr ""
+
+#: views/admin/form-settings.php:43
+msgid "Save settings"
+msgstr ""
+
+#: views/admin/header.php:15
+msgid "Error %s : "
+msgstr ""
+
+#: views/admin/import-youtube.php:21
+msgid "Import by URL"
+msgstr ""
+
+#: views/admin/import-youtube.php:22
+msgid "Import my videos"
+msgstr ""
+
+#: views/admin/import-youtube.php:30
+msgid "Import using URL"
+msgstr ""
+
+#: views/admin/import-youtube.php:33 views/admin/metabox/video-datalink.php:55
+#: views/admin/popin/editor-embed-tunnel.php:47
+#: views/admin/widget/yt-embed-tunnel.php:68
+msgid "URL"
+msgstr ""
+
+#: views/admin/import-youtube.php:36
+msgid "YouTube URL"
+msgstr ""
+
+#: views/admin/import-youtube.php:54
+msgid "Import videos using my channel content"
+msgstr ""
+
+#: views/admin/import-youtube.php:56
+msgid ""
+"You can directly import from your channel. However, video listing from "
+"YouTube is expensive on the API's Quota. That's why, you have to click on "
+"\"Refresh my list\""
+msgstr ""
+
+#: views/admin/import-youtube.php:61
+msgid "refresh list"
+msgstr ""
+
+#: views/admin/import-youtube.php:62
+msgid "refresh fail"
+msgstr ""
+
+#: views/admin/import-youtube.php:63
+msgid "reload list"
+msgstr ""
+
+#: views/admin/import-youtube.php:64
+msgid "refresh done"
+msgstr ""
+
+#: views/admin/import-youtube.php:74
+msgid "video"
+msgstr ""
+
+#: views/admin/import-youtube.php:76
+msgid "videos"
+msgstr ""
+
+#: views/admin/import-youtube.php:80
+msgid "imported video"
+msgstr ""
+
+#: views/admin/import-youtube.php:82
+msgid "imported videos"
+msgstr ""
+
+#: views/admin/import-youtube.php:85
+#: views/admin/popin/editor-video-listing.php:8
+#: views/admin/video-to-gallery.php:31 views/admin/video-to-gallery.php:88
+msgid "Search"
+msgstr ""
+
+#: views/admin/import-youtube.php:93
+#: views/admin/metabox/video-gallery-list.php:69
+msgid "Show"
+msgstr ""
+
+#: views/admin/import-youtube.php:94
+#: views/admin/metabox/video-gallery-list.php:70
+msgid "Hide"
+msgstr ""
+
+#: views/admin/import-youtube.php:95
+msgid "Already imported"
+msgstr ""
+
+#: views/admin/import-yt-preview.php:37
+#: views/admin/metabox/video-datalink.php:20
+msgid "Private"
+msgstr ""
+
+#: views/admin/import-yt-preview.php:40
+#: views/admin/metabox/video-datalink.php:23
+msgid "Public"
+msgstr ""
+
+#: views/admin/import-yt-preview.php:43
+#: views/admin/metabox/video-datalink.php:26
+msgid "Unlisted"
+msgstr ""
+
+#: views/admin/import-yt-preview.php:62
+msgid "Playlist from "
+msgstr ""
+
+#: views/admin/import-yt-preview.php:82 views/admin/import-yt-preview.php:84
+#: views/admin/styleguide.php:192 views/admin/styleguide.php:201
+#: views/admin/styleguide.php:209 views/admin/styleguide.php:218
+msgid "Import"
+msgstr ""
+
+#: views/admin/import-yt-preview.php:83 views/admin/styleguide.php:193
+#: views/admin/styleguide.php:202 views/admin/styleguide.php:210
+#: views/admin/styleguide.php:219
+msgid "Import fail"
+msgstr ""
+
+#: views/admin/import-yt-preview.php:85 views/admin/styleguide.php:195
+#: views/admin/styleguide.php:204 views/admin/styleguide.php:212
+#: views/admin/styleguide.php:221
+msgid "Imported"
+msgstr ""
+
+#: views/admin/metabox/video-datalink.php:34
+#: views/admin/metabox/video-datalink.php:42
+msgid "Yes"
+msgstr ""
+
+#: views/admin/metabox/video-datalink.php:36
+#: views/admin/metabox/video-datalink.php:44
+msgid "No"
+msgstr ""
+
+#: views/admin/metabox/video-datalink.php:50
+msgid "Original title"
+msgstr ""
+
+#: views/admin/metabox/video-datalink.php:51
+msgid "Type"
+msgstr ""
+
+#: views/admin/metabox/video-datalink.php:53
+msgid "From my channel"
+msgstr ""
+
+#: views/admin/metabox/video-datalink.php:54
+msgid "Embeddable"
+msgstr ""
+
+#: views/admin/metabox/video-datalink.php:65
+msgid "In <b>%d</b> gallery&nbsp;:"
+msgid_plural "In <b>%d</b> galleries&nbsp;:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/admin/metabox/video-gallery-list.php:30
+msgid "Meow video to add"
+msgstr ""
+
+#: views/admin/metabox/video-gallery-list.php:31
+msgid "Add from imported"
+msgstr ""
+
+#: views/admin/metabox/video-gallery-list.php:38
+msgid "or from an URL"
+msgstr ""
+
+#: views/admin/metabox/video-gallery-list.php:40
+msgid "Add from an URL"
+msgstr ""
+
+#: views/admin/metabox/video-gallery-list.php:46
+msgid "Add from URL"
+msgstr ""
+
+#: views/admin/metabox/video-gallery-list.php:52
+msgid "Number of column "
+msgstr ""
+
+#: views/admin/metabox/video-gallery-list.php:71
+msgid "Show title"
+msgstr ""
+
+#: views/admin/metabox/video-sync.php:15
+msgid "Sync from YouTube"
+msgstr ""
+
+#: views/admin/metabox/video-sync.php:23
+msgid "Default"
+msgstr ""
+
+#: views/admin/metabox/yt_config_posts.php:37
+msgid "Activate custom configuration for this article "
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:16
+msgid "Video Player"
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:17
+#: views/admin/video-to-gallery.php:24
+#: views/admin/widget/yt-embed-tunnel.php:30
+msgid "Video"
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:25
+#: views/admin/widget/yt-embed-tunnel.php:38
+msgid "Playlist Player "
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:26
+#: views/admin/widget/yt-embed-tunnel.php:39
+msgid "Playlist"
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:34
+#: views/admin/popin/editor-embed-tunnel.php:35
+#: views/admin/video-to-gallery.php:67
+#: views/admin/widget/yt-embed-tunnel.php:47
+#: views/admin/widget/yt-embed-tunnel.php:48
+msgid "Gallery"
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:45
+#: views/admin/widget/yt-embed-tunnel.php:66
+msgid "by URL"
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:53
+#: views/admin/widget/yt-embed-tunnel.php:78
+msgid "by ID"
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:55
+#: views/admin/widget/yt-embed-tunnel.php:80
+msgid "Content ID"
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:72
+msgid ""
+"No gallery found. <a href=\"%s\" target=\"_blank\">Maybe you need to create "
+"one before.</a>"
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:75
+#: views/admin/widget/yt-embed-tunnel.php:96
+msgid "Pick a gallery"
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:77
+msgid "<a href=\"%s\" target=\"_blank\">Need a new gallery?</a>"
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:100
+#: views/admin/widget/yt-embed-tunnel.php:128
+msgid "Gallery view"
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:103
+#: views/admin/widget/yt-embed-tunnel.php:134
+msgid "%s column"
+msgid_plural "%s columns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/admin/popin/editor-embed-tunnel.php:110
+#: views/admin/widget/yt-embed-tunnel.php:141
+msgid "Show video title"
+msgstr ""
+
+#: views/admin/popin/editor-embed-tunnel.php:122
+msgid "Generate and include shortcode"
+msgstr ""
+
+#: views/admin/styleguide.php:12
+msgid "Styleguide"
+msgstr ""
+
+#: views/admin/styleguide.php:16
+msgid "Help :"
+msgstr ""
+
+#: views/admin/styleguide.php:36
+msgid "Checkbox"
+msgstr ""
+
+#: views/admin/styleguide.php:37
+msgid "Radio"
+msgstr ""
+
+#: views/admin/styleguide.php:38
+msgid "Others Fields"
+msgstr ""
+
+#: views/admin/styleguide.php:39 views/admin/styleguide.php:141
+msgid "Live Preview Player"
+msgstr ""
+
+#: views/admin/styleguide.php:41 views/admin/styleguide.php:147
+msgid "Progress Bar"
+msgstr ""
+
+#: views/admin/styleguide.php:42
+msgid "Buttons"
+msgstr ""
+
+#: views/admin/styleguide.php:52
+msgid "Checkbox 1"
+msgstr ""
+
+#: views/admin/styleguide.php:188
+msgid "Button JS"
+msgstr ""
+
+#: views/admin/styleguide.php:194 views/admin/styleguide.php:203
+#: views/admin/styleguide.php:211 views/admin/styleguide.php:220
+msgid "in progress"
+msgstr ""
+
+#: views/admin/styleguide.php:246
+msgid "Sync In"
+msgstr ""
+
+#: views/admin/styleguide.php:249
+msgid "Sync Out"
+msgstr ""
+
+#: views/admin/styleguide.php:253
+msgid "Sync In/Out"
+msgstr ""
+
+#: views/admin/template/video-listing.php:30
+msgid "Add this video"
+msgstr ""
+
+#: views/admin/template/vtg-gallery-item.php:21
+msgid "contains <b>%d</b> video"
+msgid_plural "contains <b>%d</b> videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/admin/template/vtg-gallery-item.php:26
+msgid "Select this gallery"
+msgstr ""
+
+#: views/admin/template/vtg-gallery-item.php:29
+msgid "Unselect this gallery"
+msgstr ""
+
+#: views/admin/template/vtg-video-item.php:35
+msgid "Select this video"
+msgstr ""
+
+#: views/admin/template/vtg-video-item.php:38
+msgid "Unselect this video"
+msgstr ""
+
+#: views/admin/video-to-gallery.php:15
+msgid "Add Meow Video to Meow Gallery"
+msgstr ""
+
+#: views/admin/video-to-gallery.php:26
+msgid ""
+"You can add videos to a brand new gallery or/and to one or more galleries."
+msgstr ""
+
+
+#: views/admin/video-to-gallery.php:42 views/admin/video-to-gallery.php:98
+msgid "All"
+msgstr ""
+
+#: views/admin/video-to-gallery.php:46 views/admin/video-to-gallery.php:102
+msgid "Selected"
+msgstr ""
+
+#: views/admin/video-to-gallery.php:64
+msgid "Add selected videos to selected galleries"
+msgstr ""
+
+#: views/admin/video-to-gallery.php:73
+msgid "Add in new gallery"
+msgstr ""
+
+#: views/admin/video-to-gallery.php:85
+msgid "and/or in existing gallery"
+msgstr ""
+
+#: views/admin/widget/yt-embed-tunnel.php:29
+msgid "Single Player"
+msgstr ""
+
+#: views/admin/youtube-channel-banner.php:11
+msgid "Linked with"
+msgstr ""
+
+#: views/admin/youtube-channel-banner.php:13
+msgid "Go to channel"
+msgstr ""
+
+#: views/admin/youtube-channel-banner.php:16
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/admin/youtube-channel-banner.php:17
+msgid "%s subscriber"
+msgid_plural "%s subscribers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/admin/youtube-channel-banner.php:19
+msgid "%s video"
+msgid_plural "%s videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/shortcode/youtube-player.php:19
+#: views/shortcode/youtube-playlist.php:17
+msgid "For watching this video, you have to accept to send information to "
+msgstr ""
+
+#: views/shortcode/youtube-player.php:22
+#: views/shortcode/youtube-playlist.php:20
+msgid "YouTube privacy policy"
+msgstr ""
+
+#: views/shortcode/youtube-player.php:23
+#: views/shortcode/youtube-playlist.php:21
+msgid "You can access to <b>Youtube</b> with or without cookie as you pleased"
+msgstr ""
+
+#: views/shortcode/youtube-player.php:25
+#: views/shortcode/youtube-playlist.php:23
+msgid ""
+"Your choice will be store in a cookie for this unique purpose for  %s day"
+msgid_plural ""
+"Your choice will be store in a cookie for this unique purpose for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Plugin Name of the plugin/theme
+msgid "Meow Caster"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://meow.codes/meow-caster"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Tools for WebCaster for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Meow.codes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://meow.codes/"
+msgstr ""
